@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "trybank", "trybank\trybank.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "trybank.Test", "trybank.Test\trybank.Test.csproj", "{B248F814-7E2E-4DAD-ABE6-C1B0D329B425}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "trybank.Test.Test", "trybank.Test.Test\trybank.Test.Test.csproj", "{FE672A42-1476-4EA1-A418-DB2283BDA12C}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
